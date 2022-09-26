@@ -77,11 +77,11 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 
 ## Databases
 
-- [ ] [Things You Should Know About Databases](https://architecturenotes.co/things-you-should-know-about-databases)
-- [ ] [7 Database Paradigms](https://youtu.be/W2Z7fbCLSTw)
-- [ ] [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem)
+- [x] [Things You Should Know About Databases](https://architecturenotes.co/things-you-should-know-about-databases)
+- [x] [7 Database Paradigms](https://youtu.be/W2Z7fbCLSTw)
+- [x] [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem)
 - [ ] [Evolutionary Database Design](https://martinfowler.com/articles/evodb.html)
-- [ ] [ACID vs BASE in Databases](https://medium.com/geekculture/acid-vs-base-in-databases-1bcad774da26)
+- [x] [ACID vs BASE in Databases](https://medium.com/geekculture/acid-vs-base-in-databases-1bcad774da26)
 - [ ] [Understanding Database Sharding](https://www.digitalocean.com/community/tutorials/understanding-database-sharding)
 - [ ] [Database Replication](https://galeracluster.com/library/documentation/tech-desc-introduction.html#database-replication)
 - [ ] [SQL vs. NoSQL Database: When to Use, How to Choose](https://towardsdatascience.com/datastore-choices-sql-vs-nosql-database-ebec24d56106)
